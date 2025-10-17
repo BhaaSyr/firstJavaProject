@@ -34,7 +34,7 @@ A simple wall clock built using **Java Swing** and form-based UI.
   - Developed using Java Swing
 
   - No external libraries are required
-    ---
+---
 
 <p align="center">
    <img width="456" height="554" alt="Screenshot 2025-10-16 165851" src="https://github.com/user-attachments/assets/c5103b08-a493-46cd-837c-46e11088bf9f" />
